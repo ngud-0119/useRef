@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The useRef Hook allows you to persist values between renders.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
